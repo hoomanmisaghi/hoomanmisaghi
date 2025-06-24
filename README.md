@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoomanmisaghi
-- 👀 I’m interested in Machine learning and Computer Vision
-- 🌱 I’m currently learning 3D reconstruction
+- 👀 I’m interested in Machine learning and Computer Vision and LLMs
+-  Currently doing a PhD in university of auckland
 
 - 📫 How to reach me hooman.misaghi@gmail.com
 
